@@ -9,6 +9,7 @@ pwd
 
 **Diferenciación:**
 >Se diferencia de **cd**, en que este último me mueve al directorio home. \\
+
 > **cd /** me mueve al directorio raiz
 
 Ejemplo:
