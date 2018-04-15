@@ -1,4 +1,4 @@
-pwd
+ pwd
 --------------------
 **p** rint name of current/**w** orking **d** irectory
 
@@ -8,7 +8,7 @@ pwd
 >Nos imprime en que carpeta estamos.
 
 **Diferenciación:**
->Se diferencia de **cd**, en que este último me mueve al directorio home. 
+> Se diferencia de **cd**, en que este último me mueve al directorio home. 
 > **cd /** me mueve al directorio raiz
 
 Ejemplo:
