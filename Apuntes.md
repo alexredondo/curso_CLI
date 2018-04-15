@@ -1,4 +1,3 @@
-
 pwd
 --------------------
 **p** rint name of current/**w** orking **d** irectory
@@ -18,3 +17,7 @@ Ejemplo:
 alexander_red:~$ pwd
 /home/alexander_red
 ```
+
+ls
+--------------------
+list directory contents 
